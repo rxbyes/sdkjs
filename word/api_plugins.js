@@ -144,7 +144,7 @@
 
 	/**
 	 * The Document API lists the methods and events a plugin can use when working with a text
-	 * document in ONLYOFFICE Docs. To work with the document content directly, such as
+	 * document in OA Docs Docs. To work with the document content directly, such as
 	 * paragraphs and tables, run Office API code in <code>callCommand</code>. See
 	 * {@link /docs/office-api/usage-api/document-api/document-api Document API}.
 	 * @global

@@ -659,7 +659,7 @@
 	 * The passed function can be asynchronous (async function or function returning a Promise).
 	 * Inside the passed function, you can access the current cell address where the calculation is performed using *this.address*.
 	 * You can also access the addresses of function arguments using *this.args[0].address*, *this.args[1].address*, etc.
-	 * This method is not used in ONLYOFFICE Document Builder. Use AddCustomFunctionLibrary instead.
+	 * This method is not used in OA Docs Document Builder. Use AddCustomFunctionLibrary instead.
 	 * @memberof Api
 	 * @typeofeditors ["CSE"]
 	 * @param {Function} fCustom - A new function for calculating. Can be synchronous or asynchronous.
@@ -9196,7 +9196,7 @@
 	 * :::
 	 *
 	 * :::note
-	 * Values of <em>nStyleIndex</em> outside <b>1 - 48</b> are interpreted as a chart style id from the <em>cs:chartStyle</em> element (e.g. 201, 215, 284) and are available only for [ONLYOFFICE Docs Enterprise](https://www.onlyoffice.com/docs-enterprise-prices?from=api) and [ONLYOFFICE Docs Developer](https://www.onlyoffice.com/developer-edition-prices?from=api).
+	 * Values of <em>nStyleIndex</em> outside <b>1 - 48</b> are interpreted as a chart style id from the <em>cs:chartStyle</em> element (e.g. 201, 215, 284) and are available only for [OA Docs Docs Enterprise](https://github.com/rxbyes/DocumentServer?from=api) and [OA Docs Docs Developer](https://github.com/rxbyes/DocumentServer?from=api).
 	 * :::
 	 * @memberof ApiWorksheet
 	 * @typeofeditors ["CSE"]

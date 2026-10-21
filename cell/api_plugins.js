@@ -39,7 +39,7 @@
 
 	/**
 	 * The Spreadsheet API lists the methods and events a plugin can use when working with a
-	 * spreadsheet in ONLYOFFICE Docs. To work with the spreadsheet content directly, such as
+	 * spreadsheet in OA Docs Docs. To work with the spreadsheet content directly, such as
 	 * worksheets and ranges, run Office API code in <code>callCommand</code>. See
 	 * {@link /docs/office-api/usage-api/spreadsheet-api/spreadsheet-api Spreadsheet API}.
 	 * @global
