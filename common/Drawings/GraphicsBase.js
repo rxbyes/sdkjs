@@ -808,7 +808,7 @@
 			this._l(point.x, point.y);
 		}
 
-		// https://github.com/OA Docs/sdkjs/blob/ebcb7401438a8260151cd96f7568d521e04f91e9/word/Drawing/Graphics.js#L438
+		// https://github.com/ONLYOFFICE/sdkjs/blob/ebcb7401438a8260151cd96f7568d521e04f91e9/word/Drawing/Graphics.js#L438
 		// this._z(); // close path
 		// this.ds(); // draw stroke
 		// this._e(); // beginPath
