@@ -39,7 +39,7 @@
 {
 
 	/**
-	 * accepts visio shadow and common parameters, return OnlyOffice api objects of different types.
+	 * accepts visio shadow and common parameters, return OA Docs api objects of different types.
 	 * So for foreground color it return Unifill and for stroke Unifill too. For font color returns CUniColor.
 	 * In the end Calculate() is called for colors to calculate their exact value on theme
 	 * https://learn.microsoft.com/ru-ru/office/client-developer/visio/themeval-function.
