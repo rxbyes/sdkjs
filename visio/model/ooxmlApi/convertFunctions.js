@@ -2048,7 +2048,7 @@
 			// set default settings
 			// see sdkjs/common/Drawings/CommonController.js createTextArt: function (nStyle, bWord, wsModel, sStartString)
 			// for examples
-			// https://api.onlyoffice.com/docbuilder/textdocumentapi just some related info
+			// https://github.com/rxbyes/DocumentServer just some related info
 			let bWord = false;
 			textCShape.setWordShape(bWord);
 			textCShape.setBDeleted(false);
@@ -2062,7 +2062,7 @@
 
 
 			// instead of AscFormat.AddToContentFromString(oContent, sText);
-			// use https://api.onlyoffice.com/docbuilder/presentationapi/apishape api implementation code
+			// use https://github.com/rxbyes/DocumentServer api implementation code
 			// to work with text separated into ParaRuns to split properties use
 
 			// read propsCommonObjects
